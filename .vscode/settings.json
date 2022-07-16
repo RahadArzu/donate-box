@@ -1,0 +1,6 @@
+{
+    "emmet.showAbbreviationSuggestions": true,
+    "emmet.showExpandedAbbreviation": "always",
+    "files.associations": {"*.html":"html"},
+    "emmet.triggerExpansionOnTab": true
+}

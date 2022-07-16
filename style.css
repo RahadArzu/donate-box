@@ -31,10 +31,10 @@ h2{
     margin-left: 855px;
     border-radius: 5px;
 }
-#second-h1{
+.second-h1{
     color: #8dcf9d;
 }
-#second-h2{
+.second-h2{
     color: #313131;
 }
 .donate-amount{
@@ -65,4 +65,25 @@ h2{
     margin-left: 690px;
     margin-right: 690px;
     color: #b9b9b9;
+}
+.donate-categories{
+    display: flex;
+    margin-left: 375px;
+    width: 65%;
+    background-color: #8dcf9d;
+    padding: 20px;
+}
+.food-family{
+    
+}
+.family-shelter{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.child-education{
+    
+}
+.donate-categories h2{
+    text-align: left;
+    padding: 0px;
 }

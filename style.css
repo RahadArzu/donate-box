@@ -20,7 +20,7 @@ h2{
     padding-right: 550px;
     margin-top: -15px;
 }
-.document-button{
+.buttons{
     color: #ffffff;
     text-decoration: none;
     font-size: 20px;
@@ -70,20 +70,68 @@ h2{
     display: flex;
     margin-left: 375px;
     width: 65%;
-    background-color: #8dcf9d;
-    padding: 20px;
 }
 .food-family{
-    
+    background-color: #dbaeff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 60px;
+    padding-bottom: 40px;
 }
 .family-shelter{
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 90px;
+    margin-right: 90px;
+    background-color: #a7e5f8;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 60px;
+    padding-bottom: 40px;
 }
 .child-education{
-    
+    background-color: #e5eb92;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 60px;
+    padding-bottom: 40px;
 }
 .donate-categories h2{
     text-align: left;
     padding: 0px;
+    color: #ffffff;
+}
+.contribution{
+    color: #8dcf9d;
+    
+}
+.contribute-one{
+    display: flex;
+    width: 85%;
+    text-decoration: none;
+}
+#contribute-one{
+    padding-left: 375px;
+    padding-right: 190px;
+}
+#contribute-one h1{
+    text-align: left;
+    color: #8dcf9d;
+    font-weight: 550;
+}
+.contribute-button{
+    text-decoration: none;
+    background-color: #8dcf9d;
+    color: #ffffff;
+    padding: 12px 25px 12px 25px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.buttons-contribute{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 12px 25px 12px 25px;
+    text-align: center;
+    background-color: #8dcf9d;
+    border-radius: 5px;
 }
